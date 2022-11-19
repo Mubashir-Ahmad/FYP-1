@@ -1,0 +1,39 @@
+form{
+    max-width: 450px;
+    margin: auto;
+}
+.input-iconss i {
+    position: absolute;
+}
+  
+.input-iconss {
+    width: 100%;
+    margin-bottom: 22px;
+}
+  
+.icon {
+    padding: 10px;
+    color: rgb(91, 91, 91);
+    min-width: 50px;
+    text-align: center;
+}
+input{
+    height: 21px;
+    border-radius: 35px;
+    background-color: rgb(222, 222, 222);
+} 
+input::placeholder{
+    color: rgb(156, 156, 156);
+}
+.input-field {
+    width: 108%;
+    padding: 10px;
+    text-align: center;
+}
+.bt{
+    height: 50px;
+    width: 118%;
+    margin-left: -13px;
+    background: lightgreen;
+
+}

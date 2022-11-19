@@ -1,0 +1,21 @@
+.data{
+    display: flex;
+    justify-content: center;
+}
+.carimg{
+    width: 111%;
+    height: 88%;
+    margin-top: 10%;
+  }
+.carpic{
+    width: 10%;
+    
+}
+.carinfo{
+    width: 35%;
+    text-align: start;
+    padding-left: 38px;
+}
+.carprice{
+    border-left: solid gray;
+}

@@ -1,0 +1,82 @@
+.adds{
+   background-color: lightgrey;
+    height: 100vh;
+    width: 100%;
+    margin: -22px 0px;
+}
+.logindata{
+    /* background-color: white; */
+    width: 50%;
+    margin-left: 397px;
+    padding-top: 10%;
+  }
+.infologin{
+    display: flex;
+    background: white;
+    /* margin-top: 8%; */
+    height: 533px;
+    border-radius: 29px;
+  }
+  .logo{
+    width: 55%;
+    height: 50%;
+    margin-top: 129px;
+  }
+  img{
+    width: 55%;
+    height: 90%;
+  }
+  .information{
+    margin: 0% 9%;
+  }
+  h4{
+    padding-top: 1%;
+  }
+h1{
+    background-color: lightblue;
+    width: 100%;
+    height: 57px;
+    margin-top: 0%; 
+    padding-top: 2%;
+}
+  form{
+    max-width: 450px;
+    margin: auto;
+  }
+  .input-icons i {
+    position: absolute;
+  }
+  
+  .input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .icon {
+    padding: 10px;
+    color: rgb(91, 91, 91);
+    min-width: 50px;
+    text-align: center;
+  }
+  input{
+    height: 21px;
+    border-radius: 35px;
+    background-color: rgb(222, 222, 222);
+  } 
+  input::placeholder{
+    color: rgb(156, 156, 156);
+  }
+  .input-field {
+    width: 108%;
+    padding: 10px 0;
+    text-align: center;
+    line-height: 36px;
+    margin: 6px 0;
+  }
+  .btn{
+    height: 50px;
+    width: 120%;
+    margin-left: 1px;
+    background: lightgreen;
+  
+  }
